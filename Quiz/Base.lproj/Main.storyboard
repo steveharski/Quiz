@@ -56,9 +56,9 @@
                             <constraint firstItem="P9g-R0-NY0" firstAttribute="top" secondItem="p92-Dd-qkF" secondAttribute="bottom" constant="8" id="5VL-Ue-g1O"/>
                             <constraint firstItem="Jay-5P-ZEC" firstAttribute="top" secondItem="P9g-R0-NY0" secondAttribute="bottom" constant="165" id="6aP-jN-UYb"/>
                             <constraint firstItem="p92-Dd-qkF" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="33" id="95c-zc-5F9"/>
-                            <constraint firstItem="p92-Dd-qkF" firstAttribute="centerX" secondItem="P9g-R0-NY0" secondAttribute="centerX" id="AAr-3z-AWP"/>
                             <constraint firstItem="LEF-jM-4eO" firstAttribute="centerX" secondItem="P9g-R0-NY0" secondAttribute="centerX" id="JNG-Zr-d8f"/>
                             <constraint firstItem="ap7-1G-iyt" firstAttribute="top" secondItem="p92-Dd-qkF" secondAttribute="top" id="SUF-Zw-CWN"/>
+                            <constraint firstItem="P9g-R0-NY0" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Scl-Aq-OTl"/>
                             <constraint firstItem="ap7-1G-iyt" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="bkL-gc-Zcc"/>
                             <constraint firstItem="LEF-jM-4eO" firstAttribute="top" secondItem="Jay-5P-ZEC" secondAttribute="bottom" constant="8" id="qk8-f5-nTr"/>
                             <constraint firstItem="p92-Dd-qkF" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="vOB-sA-bEe"/>
@@ -70,7 +70,7 @@
                         <outlet property="currentQuestionLabel" destination="p92-Dd-qkF" id="flw-Nq-TEo"/>
                         <outlet property="currentQuestionLabelCenterXConstraint" destination="vOB-sA-bEe" id="bqX-Mt-WtV"/>
                         <outlet property="nextQuestionLabel" destination="ap7-1G-iyt" id="Txh-nS-bbQ"/>
-                        <outlet property="nextQuestionLabelCenterXConstraint" destination="bkL-gc-Zcc" id="hHE-Rb-Rlz"/>
+                        <outlet property="nextQuestionLabelCenterXConstraint" destination="bkL-gc-Zcc" id="Q2v-vY-ico"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
